@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.trisolab.sunshine" >
+    package="com.example.sunshine" >
 
     <!-- This permission is necessary in order for Sunshine to perform network access. -->
     <uses-permission android:name="android.permission.INTERNET" />
@@ -25,7 +25,7 @@
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.trisolab.sunshine.MainActivity" />
+                android:value="com.example.sunshine.MainActivity" />
         </activity>
         <activity
             android:name=".SettingsActivity"
@@ -33,7 +33,7 @@
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.trisolab.sunshine.MainActivity" />
+                android:value="com.example.sunshine.MainActivity" />
         </activity>
     </application>
 

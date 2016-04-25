@@ -1,4 +1,4 @@
-package com.trisolab.sunshine;
+package com.example.sunshine;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

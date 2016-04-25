@@ -5,8 +5,8 @@ android {
     buildToolsVersion "24.0.0 rc3"
 
     defaultConfig {
-        applicationId "com.trisolab.sunshine"
-        minSdkVersion 23
+        applicationId "com.example.sunshine"
+        minSdkVersion 22
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

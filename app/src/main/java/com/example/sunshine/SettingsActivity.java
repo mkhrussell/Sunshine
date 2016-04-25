@@ -1,4 +1,4 @@
-package com.trisolab.sunshine;
+package com.example.sunshine;
 
 import android.os.Bundle;
 import android.preference.ListPreference;

@@ -1,4 +1,4 @@
-package com.trisolab.sunshine;
+package com.example.sunshine;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
